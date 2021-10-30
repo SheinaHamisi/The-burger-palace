@@ -128,13 +128,14 @@
 
 /* benefits section */
 .benefits-section{
-    margin-top: 240px;
-    margin-bottom: 240px;
+    padding-top: 240px;
+    padding-bottom: 240px;
     padding-left: 36px;
     padding-right: 36px;
     display: flex;
     justify-content: center;
     gap: 36px;
+    background-color: #F7FDF6;
 }
 
 
