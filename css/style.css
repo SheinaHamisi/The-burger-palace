@@ -1,8 +1,9 @@
-/* default sizing */
+/* default styles */
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* background */  
@@ -19,7 +20,8 @@
 .header{
     display: flex;
     justify-content: space-between;
-    
+    align-items: center;
+    position: relative;
 }
 
 /* logo */
@@ -38,4 +40,48 @@
 
 #logo-right{
     color: #FFC12B;
+    font-family: 'Oleo Script Swash Caps', cursive;
 }
+
+/* nav menu */
+#nav-menu{
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    bottom: 24px;
+}
+
+#cart{
+    width: 48px;
+    position: relative;
+    bottom: 8px;
+}
+
+#menu{
+    display: flex;
+    gap: 72px;
+    list-style: none;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    left: 230px;
+}
+
+#menu li:hover{
+    border-bottom: solid #FF6D21 8px;
+    padding-bottom: 6px;
+}
+
+/* hero title */
+#hero-left > :first-child{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    margin-top: 100px;
+    margin-bottom: 48px;
+}
+
+/* hero body */
