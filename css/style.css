@@ -134,7 +134,7 @@
     padding-right: 36px;
     display: flex;
     justify-content: center;
-    gap: 24px;
+    gap: 36px;
 }
 
 
@@ -150,4 +150,14 @@
     text-align: center;
 }
 
-/*  */
+/* card title */
+.card :nth-child(2){
+    font-size: 36px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+/* middle card */
+#middle-card{
+    width: 40%;
+}
