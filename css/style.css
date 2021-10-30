@@ -1,0 +1,15 @@
+/* default sizing */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* background */  
+.hero-section{
+    background-image: url("/images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* header */
