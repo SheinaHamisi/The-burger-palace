@@ -133,11 +133,16 @@
     padding-left: 36px;
     padding-right: 36px;
     display: flex;
+    justify-content: center;
     gap: 24px;
 }
 
 
 /* card */
 .card{
-    
+    border: solid 1px black;
+    padding: 24px;
+    width: 30%;
 }
+
+/*  */
