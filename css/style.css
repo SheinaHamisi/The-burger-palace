@@ -162,3 +162,10 @@
 #middle-card{
     width: 40%;
 }
+
+.menu-section{
+    text-align: center;
+    padding-top: 140px;
+    padding-left: 36px;
+    padding-right: 36px;
+}
