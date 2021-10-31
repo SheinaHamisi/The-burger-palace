@@ -350,6 +350,7 @@
 /* slider left width */
 #slider-left{
     width: 50%;
+    margin-left: 60px;
 }
 
 /* slider right width */
@@ -371,6 +372,7 @@
 #slider-left-p{
     font-size: 24px;
     font-weight: 600;
+    margin-left: 24px;
 }
 
 /* slider toggles */
@@ -411,8 +413,8 @@
 }
 
 #slider-right img{
-    max-width: 75%;
-    margin-top: -10px;
+    max-width: 80%;
+    margin-top: -60px;
     margin-left: -84px;
 }
 
@@ -423,8 +425,51 @@
 
 #slider-right :last-child{
     position: relative;
-    margin-top: -350px;
+    margin-top: -360px;
     left: 120px;
     bottom: 200px;
     z-index: 1;
+}
+
+/* download app section */
+.download-app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 180px;
+    padding-bottom: 180px;
+    background-color: #F5B426;
+}
+
+/* app section left */
+#app-section-left{
+    width: 50%;
+    padding-left: 96px;
+}
+
+#app-section-left p {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.appstore img{
+    width: 180px;
+    margin-top: 132px;
+}
+
+.appstore :first-child{
+    margin-left: 36px;
+    margin-right: 12px;
+}
+
+/* app section right */
+#app-section-right {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#app-section-right img{
+    width: 75%;
 }
