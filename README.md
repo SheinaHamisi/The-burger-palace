@@ -1,0 +1,20 @@
+# Burger Palace
+#### The landing page of a restaurants website, 31/10/2021
+#### By **{List of contributors}**
+## Description
+A simple landing page of a restaurants website that has information on what the restaurant offers.
+## Setup/Installation Requirements
+* git clone https://github.com/SheinaHamisi/The-burger-palace.git
+* cd /cloned path/The-burger-palace
+* code . or atom .
+
+ensure you have liveserver installed in vscode or the equivalent installed in atom editor.
+## Known Bugs
+There are no known bugs.
+## Technologies Used
+HTML/CSS.
+## Support and contact details
+sheina.hamisi@student.moringaschool.com
+### License
+[MIT](license.txt)
+Copyright (c) 2021 **Sheina Hamisi**Project Files
