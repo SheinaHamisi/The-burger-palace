@@ -1,6 +1,6 @@
 # Burger Palace
 #### The landing page of a restaurants website, 31/10/2021
-#### By **{List of contributors}**
+#### By **Sheina Hamisi**
 ## Description
 A simple landing page of a restaurants website that has information on what the restaurant offers.
 ## Setup/Installation Requirements
